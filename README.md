@@ -1,2 +1,2 @@
-# usecases
+# Use Cases
 Use Cases
